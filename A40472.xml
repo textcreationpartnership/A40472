@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fresh news from Cockeny for the information of all such as are not sick of the sullens.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40472</idno>
+            <idno type="STC">Wing F2198A</idno>
+            <idno type="STC">ESTC R30390</idno>
+            <idno type="EEBO-CITATION">11305721</idno>
+            <idno type="OCLC">ocm 11305721</idno>
+            <idno type="VID">47392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fresh news from Cockeny for the information of all such as are not sick of the sullens.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Dumpender-law for the Company of Stationers in Gladsmoor,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47392:1"/>
+            <pb n="1" facs="tcp:47392:1"/>
+            <head>FRESH NEWS FROM <hi>COCKENY:</hi> For the Information of all ſuch as are not ſick of the <hi>Sullens.</hi>
+            </head>
+            <opener>
+               <dateline>Cockeny, <date>Thurſday, &amp;c.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His day the Senate has named Commiſſioners to regulate the Cuſtome and Exciſe of im<g ref="char:EOLhyphen"/>ported <hi>Cutling-ſtones;</hi> a Commodity, which (if this Froſt laſt till <hi>Candlemaſſe)</hi> will infallibly allay the boiſterous Pride of <hi>Bar<g ref="char:EOLhyphen"/>ley ſtingo,</hi> and chamber the keckling of Hens loadened with eggs. It's a moſt glo<g ref="char:EOLhyphen"/>rious fight to behold the daily ſplendor on the Nore loch of <hi>Edinburgh:</hi> and ſuch, who remembers of the <hi>Olympick</hi> Games, by way of tranſmigra<g ref="char:EOLhyphen"/>tion, ſayes, they were but pupper Playes in reſpect of our froſted <hi>Carrozols.</hi> The names of the Deputies are as follows, <hi>Auguſtus Apple-tree, Catiline Crab-tree, Agamemnon, Anderſon, Sigiſ<g ref="char:EOLhyphen"/>mundus Sympſon, Petronius Paterſon, Publius Bublius Buy, Hadrianus Hodge, Sempronius Skeuch, Coriolanus Cowy,</hi> and Mr. <hi>Corderius Contter</hi> for their Clerk: all Perſons of ſpotleſſe integrity. But they are limited, not to admit of any exceeding the Carrat of two hundred pound weight; becauſe oftentimes young men endanger their Back-ſprents with the vanity of pon<g ref="char:EOLhyphen"/>derous Stones. This Committe was no ſooner eſtabliſhed, but there came a Letter from <hi>Humphrey Hood,</hi> our Shell-fiſh Agent at the <hi>Hague,</hi> by which you may perceive the reaſon our <hi>Muſſel<g ref="char:EOLhyphen"/>skape</hi> is not yet planted in the mouth of the <hi>Meaze.</hi> The Letter you have here ſet down.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="2" facs="tcp:47392:2"/>
+                  <head>For the Right Sapient, the CONSULS and TRIBUNS of the SENATE of <hi>COCKENY.</hi>
+                  </head>
+                  <opener>
+                     <salute>Moſt Shientick Patrons,</salute>
+                  </opener>
+                  <p>THe States here are in ſuch confuſion about their differen<g ref="char:EOLhyphen"/>ces with <hi>England,</hi> that I can bring to no perfection our <hi>Muſſell</hi> Project. There be ſome <hi>Jews</hi> that would bar<g ref="char:EOLhyphen"/>gain for a parcell of thoſe which hatches Pearle; But I told them, It was expreſſe againſt our Laws, becauſe they are only deſtined to decore our Wives and Children with Neck-laces. I find it will be to no purpoſe for me to waſte longer time here; for there is never one of the <hi>Hoggin Moggin,</hi> when I motion any thing of buſineſſe, that anſwers me to the purpoſe. As for example, When I demanded a return of my Memoriall from their Secretary, he thruſts into my hand a Speech of one of their Members, which becauſe it poſſibly may convince you of their diſcompoſed, condi<g ref="char:EOLhyphen"/>tion, I have here ſent it tranſlated in the moſt <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Engliſh</hi> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Secretary could reach; for the truth is, a ſimple Verſion of a Low-dutch <hi>Jargon</hi> would puzle a greater Ling<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt than <hi>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ll<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pine.</hi> This (with the incloſed) is all at preſent from</p>
+                  <closer>
+                     <signed>Your Servant, <hi>Humphrey Hood.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>The Speech of Mijn Heir <hi>Snip Snap van Rugg,</hi> a Barber in <hi>Delph,</hi> and one of the States Generals: as it was deli<g ref="char:EOLhyphen"/>vered at the <hi>Hague,</hi> on the <hi>Feaſt</hi> of <hi>Innocents.</hi>
+                        </head>
+                        <opener>
+                           <salute>My Lords,</salute>
+                        </opener>
+                        <p>IT is now any time, this twenty years, that I have been a wit<g ref="char:EOLhyphen"/>neſſe to all your politicall Trimmings; and let me tell you, without flattery, though their Friſlings and Curlings were above the Pincers of my Conception, yet I was infinitely pleaſed at the craftineſſe of their contexture: And upon no other account, <hi>My Lords,</hi> but becauſe they were nine Points to the South-ward of my comprehenſion, which, as I am informed, is the only un<g ref="char:EOLhyphen"/>derſtanding <hi>a la Mod.</hi> But as to the Queſtion in debate, <hi>Whether it were better for us to have Peace or War with England?</hi> there
+<pb n="3" facs="tcp:47392:2"/> lies the buſineſſe. Certainly, <hi>My Lords,</hi> it would much con<g ref="char:EOLhyphen"/>duce to your ſatisfactions, to have the Diſpoſitions of the People ſounded: and that is to be had, either in a <hi>Mill,</hi> a Country <hi>Forge,</hi> or in a Barbers Shop in a <hi>Town.</hi> In my opinion, <hi>My Lords,</hi> the latter is to be dreferred, the other two being only Rendezvouſes of Clowns: but that of the ſhaving Faculty, to my certain know<g ref="char:EOLhyphen"/>ledge, even in my own <hi>Theater,</hi> there is of all ſtations that reſort there; nay, even from the <hi>Tarpalian,</hi> that has his Cox-comb rounged with a wooden diſh, to the <hi>Spruce</hi> Gallant, whoſe Ant<g ref="char:EOLhyphen"/>lers are ſtarched with <hi>Geſſimine:</hi> and without all doubt, thoſe are the Water-fowl that continually flutters and dables in this our plantation of ſouſed clods. But, <hi>My Lords,</hi> not to keep you up from my intended diſcovery of their preſent inclinations, I ſhall briefly relate the Obſervations I made in the laſt three Saturdayes Dreſſings, not forgetting the Humors of the <hi>Jews</hi> on the preceed<g ref="char:EOLhyphen"/>ing Fridayes: and in order to the Diſcipline of the Houſe, whilſt ſome are wet, and others ſhaving, the Claſh was held up with theſe raskally ingredients that ſupports the confuſion of a Common<g ref="char:EOLhyphen"/>wealth. The firſt that broke the yee, was <hi>Dick</hi> the <hi>Snyder</hi> of <hi>Delph,</hi> a worſhipfull Botcher, that has taken the length of Uſurers feet, but ſtill within the limits of clouting Stockings. This ſame Fellow, I ſay, with a dark hollow voice, and a great diſcontented belch, declared his averſion to thir preparations of a War with <hi>England:</hi> for, ſaith he, thoſe who are moſt concerned to defray the expenſe of the War, are theſe who are leaſt concerned in the Quarrell. Muſt all the Commons of the ſeven Provinces be pin<g ref="char:EOLhyphen"/>ched, to maintain the vanity and avarice of the Eaſt and Weſt India Companies: and againſt a Neighbour and Benefactor, who re<g ref="char:EOLhyphen"/>deemed us both from the <hi>Name</hi> of <hi>Rebels,</hi> and the contemptible Title of, <hi>The low and diſtreſſed States of Holland?</hi> No, no, Heavens forbid we ſhould be ſuch ingrate wretches. This was no ſooner ſaid, but <hi>Yerk</hi> the Cobler ſwore (by the Keiſtril of <hi>Cri<g ref="char:EOLhyphen"/>ſpine)</hi> that all his brother Botcher had ſaid was true. And beſides, conſider, when <hi>Dunkirk, Oſtend</hi> and <hi>Newport</hi> were upon our Noſe, what difficulties we were at in the point of Trade, and what charges for Convoys. I pray, what will it be when all the Coaſt-Towns of <hi>England</hi> are ſuch, with the advantage of a Fleet-Royal
+<pb n="4" facs="tcp:47392:3"/> all the dayes of the year to protect them. Its true, no place can well ſubſiſt plentifully without Trade; yet <hi>England</hi> has, and can ſubſiſt, when there is no Trade at all. Its far otherwiſe with us, for the leaſt obſtrnction of Trade cuts us off from naturall ſubſi<g ref="char:EOLhyphen"/>ſtence; For our Countrie, of it ſelf, yeelds ſcarce ſo much Grain as will nurſe <hi>Anxv Maria Shurmans</hi> Poultry: and for the fiſhing that's of our own property, except ſome accidentall peeks of Prans and a few muddy Eels, we have nothing but at the diſcretion of Neighbours. Its true, there is a proportion of Butter and Cheeſe, but not to feed the ten thouſand mouth. The <hi>Cobler</hi> had no ſooner ſpoke, when ſtraight an aged <hi>Brocker,</hi> formerly a Profeſſor of Hiſtory at <hi>Loydan,</hi> with ſtaring eyes, and a bellowing voice, aſſented to all what was ſaid; only he was diſpleaſed, that ſhe who was the ornament of the Low-dutch Learning, ſhould be compared to Hen-wives; which Wives (in other parts of the world) has the rank reputation of <hi>Witches.</hi> However, the good old Mans choller was ſoon allayed, being the compariſon flowed from illiterate Bruits: but withall, very gravely, after he had ſtroaked down his breaſt and beard, he held forth as followeth; I remember, Neighbours, eighty years agoe, when this Common<g ref="char:EOLhyphen"/>wealth, before it bulged to the dreadfull Title of <hi>Hoggin Moggin,</hi> had no other repute but that of a deſpicable crew of fiſh <hi>Hamelets,</hi> and might have continued ſo, if at the ſame juncture of time they had not met with the Novelties and Followers of ſome Runagado-Eccleſiaſticks, which gave both life and being to our rebellious Foundation. About the ſame time, I ſay, they report, that, as <hi>Philip</hi> the ſecond being in a dumpiſh mood about this Revolt, there was a State-projector very formally addreſſed himſelf to his <hi>Majeſty,</hi> and adviſed him, never to enterpriſe the reducing of us by a Land-war, but convert all his force for the conſtant enter<g ref="char:EOLhyphen"/>tainment of an hundred Friggats, and ſo cruſh our Trading: and this he made appear to be no great task, conſidering the King had as many Towns great and ſmall, that one with another could de<g ref="char:EOLhyphen"/>fray the expence of the deſign eaſily. As the <hi>Broker</hi> was upon this diſcourſe, I was juſt circumſtexing the whiskers of a hot-headed <hi>Dantzick Farder,</hi> when upon a ſudden the <hi>Angry Copman</hi> ſprung out of my grips, and ſwore by all the Tarr in the Eaſt, and the
+<pb n="5" facs="tcp:47392:3"/> great Pudding of <hi>Spruce,</hi> that whoever he was gave that advice to the <hi>Spaniard,</hi> behoved to be a <hi>Jeſuiter,</hi> in regard it had ſo pernicious a conſequence. And if the King of <hi>Brittain</hi> light upon the ſame deſign, as he may much more eaſily do, the want of Trade to ſuch a multitude of mouths, would ſpeedily render us miſerable. He was going to enlarge upon the ſubject, but the authority of the reverend <hi>Broker</hi> procured liberty and attention to return to his diſcourſe: ſo he continued. This counſell, as I told you, of the <hi>Policy-monger</hi> of State, was moſt attentively liſte<g ref="char:EOLhyphen"/>ned to by <hi>Don Phillipilio,</hi> inſomuch that he not only ſtroskt up his <hi>Bigots,</hi> but witneſſed his ſatisfaction with three extraordinary <hi>Prudentiall Nods:</hi> and haply the motion might have taken effect, if the Duke of <hi>Parma</hi> at that time had not been at Court, accom<g ref="char:EOLhyphen"/>panied with all the War-like Nobility both of <hi>Italy</hi> and <hi>Spain;</hi> that were drunk with hunting after Land-glory: Beſides, its thought the King was indifferent; and having his Treaſures com<g ref="char:EOLhyphen"/>ing tumbling from the <hi>Indies,</hi> he thought he could not diſtribute it better than by erecting a School of War in <hi>Flanders,</hi> to breed Officers for his other Conqueſts. And let me tell you, Neighbours, it was no ſmall ſupport to our new patched up Republick, that this ſame Southern <hi>Monarch</hi> was the envy of the Northern parts of the world; for by moſt he was regarded as the fierceſt of the whoſe bunch of <hi>Antichriſts, Dragon heads:</hi> and ſuch was the zeal of the mortified Ladies, that no reformed Gallant could be enter<g ref="char:EOLhyphen"/>tained in his <hi>amours,</hi> unleſſe he had ſerved three <hi>Campagnias</hi> in <hi>Holland,</hi> and brought away nine hairs of the <hi>Muſtachoes</hi> of a <hi>Caſtilian Diego</hi> as a Trophee of his valour.</p>
+                        <p>Our <hi>Broker</hi> was again interrupted by a little Terſell of a <hi>Levite,</hi> who all this while was tuning my Daughters <hi>Cittern</hi> to the Notes of a <hi>Geneva</hi> Jigg: And after he had, in a great paſſion, flung his Water-camlote Cloak under his Arme, he began and roared againſt all what had paſſed, alledging that they intended nothing, but to leſſen the ſtrength and reputation of the Pious and Godly States, that was the great receptacle of all tender conſciences. He had ſcarce uttered theſe words, when upon a ſudden, a School-maſter took him up, and ſaid, <hi>Novimus &amp; quite:</hi> My life upon it, that you and ſome of the Scots non-conforme Brethren has been knead<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:47392:4"/> Lectures together at <hi>Skeedames-dyke.</hi> Like enough it has been ſo, ſaid a <hi>Black-ſmith;</hi> for his flattering ſtrain ſpeaks no leſſe. What? replyes a Scrivener, are theſe the companions are ſo nim<g ref="char:EOLhyphen"/>ble at making of <hi>Garden-knots?</hi> The very ſame, ſayes a <hi>Cutler;</hi> For, put me half a ſcore of theſe fellows in a peaceable Kingdome, and though there be a Gariſon in every Family, yet they ſhall work mutiny up to that height, that nothing but the ſteel edge of a broad Sword is able to charm it. All what you ſay is moſt certain, ſaith the <hi>Broker,</hi> and if the reſt of the hotch-potch Religions, to whom we give ſhelter, were as contentiouſly diſpoſed as they, our Common-wealth had been long ſince ſplit: But thanks to our <hi>Sum<g ref="char:EOLhyphen"/>mum bonum</hi> of refined cheating and black uſury, that keeps un<g ref="char:EOLhyphen"/>der hatchets the zeal of all other profeſſions, Now when I ſpeak of Religions in that point, we are wretched; for, by moſt part of the world, we are in the Category of <hi>Jews</hi> and <hi>Infidels,</hi> eſpeci<g ref="char:EOLhyphen"/>ally our <hi>Eaſt</hi> and <hi>Weſt India Companies,</hi> who for the moſt part, are profeſt enemies of <hi>Chriſt,</hi> which, in this our Engagement with <hi>England,</hi> may unhappily ſtand in our way; for it's not to be ſup<g ref="char:EOLhyphen"/>poſed, that his <hi>Chriſtian Majeſty,</hi> who is the only probable Prince in the world, to enterpriſe a <hi>Croyſada,</hi> that ever he will counte<g ref="char:EOLhyphen"/>nance a tribe of <hi>Hebrews,</hi> to advance the ſtandart of <hi>Circumciſion.</hi> At the hearing of this, out ſprings a <hi>Greenland Swaber,</hi> and ſwore by all the blubber that grows on a <hi>fat Whales jowle,</hi> that rather then <hi>Fadderland</hi> ſhould be in jeopardy, he would yet again kindle his courage with <hi>Brandy</hi> for its defence. <hi>Fadderland</hi> replyes an <hi>Inland Bumpkin,</hi> there is none of you that inhabites Towns can pretend any thing that way, there being none of you all can ſay your Grand-father was a <hi>Hollander.</hi> It is moſt true, cryes another Clown; for it is we only can claim that right, and you are no other then ſo many Paddock-ſtools or Muſhromes, iſſued out of the ſteam of a Dung-hill, as French Angelots hatches Magots. I am apt to believe that, ſaith a <hi>Cowper;</hi> for my father was a Swine-herd in <hi>Weſt Phalia:</hi> And, becauſe my mother entertained unnaturall jealouſies, he was forced to come here for protection. And mine, ſaith a <hi>Gold-ſmith,</hi> was a <hi>Tinker</hi> in <hi>Sweden;</hi> but one time, for his divertiſment, as he was tranſmuting the natural mettal of the Coun<g ref="char:EOLhyphen"/>try into ſilver, whereon he was engraving the King's Image, he was
+<pb n="7" facs="tcp:47392:4"/> forced to flie for a falſe Coyner, And my Grand-father, cryes a <hi>Skavinger,</hi> was a Frier of <hi>Etfoord</hi> in <hi>Germany;</hi> but, for ſcanda<g ref="char:EOLhyphen"/>lous toping of a <hi>Tailors Wife,</hi> he was forced to flee to <hi>Amſterdam,</hi> where he was preferred to be a <hi>Lay Elder.</hi> In good faith, ſaith a <hi>Glazier,</hi> I am of the opinion, at beſt, that all our forebearers with<g ref="char:EOLhyphen"/>in two generations, were either <hi>Criminalls, Runagadoes,</hi> or <hi>Ban<g ref="char:EOLhyphen"/>querupts;</hi> for my father was <hi>Caſh-keeper</hi> to a <hi>Genowes Banquier:</hi> But in regard the ballancing of accounts did not hit, he was forced to change both <hi>Climate</hi> and <hi>Religion,</hi> All that is nothing, quoth an old toothleſſe <hi>Furrier,</hi> and therefore liſten to what I ſay; for, though I mumble my words out of a heard like a Maviſe-neſt, yet my mouth is not ſo muzelled with <hi>Morpions,</hi> but I can make it ap<g ref="char:EOLhyphen"/>pear in the teeth of the greateſt <hi>Virtuoſi,</hi> that <hi>Reucks, Cheats,</hi> and <hi>Trippanners</hi> are the only ingredients to compoſe ſuch a Com<g ref="char:EOLhyphen"/>mon-wealth as ours, whoſe greateſt ſubſiſtence depends upon the ruine of Neighbours. Say you ſo, ſaith a <hi>Traveller?</hi> Then it is high time for me to ſhift ſo peſtilentions an air.</p>
+                        <p>This, <hi>My Lords,</hi> was the ſumme of the obſervations I made among my Chriſtian Clyants: My Jewiſh Cuſtomers again were a little more cloſe, yet I overheard one ſay to another, that he much doubted the ſucceſſe of the War, ſince the King of <hi>Brittain</hi> con<g ref="char:EOLhyphen"/>cerned Himſelf ſo vigorouſly, and that the ſtrength of an Engliſh Monarch is unknown, when he is likewiſe Soveraign of the affecti<g ref="char:EOLhyphen"/>ons and concurrence of His People, as it was now the caſe of His preſent Majeſty: And which is worſt of all, there ſeems to be a per<g ref="char:EOLhyphen"/>fect underſtanding 'twixt him and the French King. Why then, replyes the other, in ſuch caſes the <hi>States</hi> ſhould breath the veins of their Tunnes of Skat, and bleed among their Courtiers. Tuſh ſaith the other, theſe knacks are to be done with <hi>Baſhawes</hi> at <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> or in republicks like <hi>Venice</hi> or <hi>Geneva,</hi> or in the Mino<g ref="char:EOLhyphen"/>rity of a King: But believe me, it's dangerous to be found tripping with two ſuch clear-ſighted Princes as theſe of <hi>England</hi> and <hi>France;</hi> beſides, their Courtiers are (of late) become ſuch nice Chriſtians, that they will hardly touch <hi>Holland</hi> caſh, for fear it were deep<g ref="char:EOLhyphen"/>ly mixed, and ſtunck of our uſurious and circumciſed Purchaſe. This is all, <hi>My Lords,</hi> I heard among our <hi>Talmudicall</hi> friends: I am informed that if your Wiſdomes would appoint Emiſſaries to
+<pb n="8" facs="tcp:47392:5"/> frequent the <hi>Skie Skooles up de Burgwall,</hi> and there you will find News and State matters as gravely debated in the time whilſt they are <hi>plumping,</hi> as they are at <hi>London,</hi> in theſe houſes where they ſtew their eyes and noſes with the vapour of <hi>Coffee.</hi> I am afraid, <hi>My Lords,</hi> that I have treſpaſſed upon your pickled patience; for I hear the clink of the Hair groat bell, and it being now high time to skaffe up, your Worſhips will diſpenſe with your humble Beadſ-man.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After this ſpeech was read, the Senate thought it inconſiſtent with their honours to entertain any more comerce with ſuch a durty generation of Water-Rats, and therefore reſolved to recall their Ambaſſadour.</p>
+            <div type="part">
+               <head>From <hi>Amſterdam.</hi>
+               </head>
+               <p>THe Ambaſſadours that went out from our Committee of <hi>Con<g ref="char:EOLhyphen"/>jurers,</hi> are returned from <hi>Lapland:</hi> their <hi>Wizards</hi> and we agree that this <hi>Meteor</hi> is a femall Comet, becauſe of the length of her tail; and that ſame dreadfull ſhaking of her ſhaggy Group over the <hi>Netherlands</hi> portends nothing leſſe than that, for all our leather ears and braſſe countenance, yet we ſhall be darkned with Clouds of live-haired Periwigs.</p>
+               <p>This wandering Whore took the occaſion of the beginning of the year, and with a <hi>Waſſinghole</hi> has ranged about all the twelve Houſes of the Heavens; at laſt ſhe is got betwixt the horns of <hi>Aries,</hi> where its thought ſhe will expire, and with her ſnuff ſtiffle that Cuckoldly Conſtable, who uſed to be ſuch a violent perſecutor of her Siſter Errants of the Galloping Gang.</p>
+            </div>
+            <div type="notice">
+               <head>ADVERTISEMENT.</head>
+               <p>ALl ſuch Doctors, Theologues, and Philoſophers; that did not underſtand the laſt SCONT of <hi>Cockeny</hi> without a Key, are re<g ref="char:EOLhyphen"/>commended to read <hi>Democrites</hi> Commentaries on <hi>Merlins</hi> and <hi>Thomas</hi> Rymers Prophecies; and there they will find mention of a Manuſcript in the king of Fairies Library that will diſcover the ſecret.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Dumpender-law,</hi> for the Company of Stationers in <hi>Gladſ-moor.</hi>
+            </p>
+            <pb facs="tcp:47392:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
